@@ -43,7 +43,7 @@ Step by step guide to becoming a modern Java developer
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
  - [✅ ] Day 00
- - [ ] Day 01
+ - [✅ ] Day 01
  - [ ] Day 02
  - [ ] Day 03
  - [ ] Day 04
