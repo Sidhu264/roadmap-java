@@ -37,7 +37,7 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Control Flow
  - [✅ ] OOP Part 1 - Inheritance
  - [✅ ] OOP Part 2 - Polymorphism
- - [ ] Arrays
+ - [✅ ] Arrays
  - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
@@ -48,7 +48,7 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Day 03
  - [✅ ] Day 04
  - [✅ ] Day 05
- - [ ] Day 06
+ - [✅ ] Day 06
  - [ ] Day 07
  - [ ] Day 08
  - [ ] Day 09
