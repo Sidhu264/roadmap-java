@@ -38,7 +38,7 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] OOP Part 1 - Inheritance
  - [✅ ] OOP Part 2 - Polymorphism
  - [✅ ] Arrays
- - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
+ - [✅ ] List, ArrayList, LinkedList, Iterator, Autoboxing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
@@ -49,16 +49,16 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Day 04
  - [✅ ] Day 05
  - [✅ ] Day 06
- - [ ] Day 07
- - [ ] Day 08
+ - [✅ ] Day 07
+ - [✅ ] Day 08
  - [ ] Day 09
 
 ## Basic Stage 2
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Abstraction in Java
- - [ ] Generics
+ - [✅ ] Abstraction in Java
+ - [✅ ] Generics
  - [ ] Nested Classes and Types
  - [ ] Lambda Expressions, Functional Interfaces, and Method References
  - [ ] Java Collections
