@@ -51,7 +51,7 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Day 06
  - [✅ ] Day 07
  - [✅ ] Day 08
- - [ ] Day 09
+ - [✅ ] Day 09
 
 ## Basic Stage 2
 
@@ -59,17 +59,17 @@ Step by step guide to becoming a modern Java developer
 
  - [✅ ] Abstraction in Java
  - [✅ ] Generics
- - [ ] Nested Classes and Types
- - [ ] Lambda Expressions, Functional Interfaces, and Method References
- - [ ] Java Collections
+ - [✅ ] Nested Classes and Types
+ - [✅ ] Lambda Expressions, Functional Interfaces, and Method References
+ - [✅ ] Java Collections
  - [ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [ ] Streams
  - [ ] Back to a Few Nuts and Bolts
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 10
- - [ ] Day 11
+ - [✅ ] Day 10
+ - [✅ ] Day 11
  - [ ] Day 12
  - [ ] Day 13
  - [ ] Day 14
