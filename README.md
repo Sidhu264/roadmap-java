@@ -62,7 +62,7 @@ Step by step guide to becoming a modern Java developer
  - [✅ ] Nested Classes and Types
  - [✅ ] Lambda Expressions, Functional Interfaces, and Method References
  - [✅ ] Java Collections
- - [ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
+ - [✅ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [ ] Streams
  - [ ] Back to a Few Nuts and Bolts
 
@@ -70,7 +70,7 @@ Step by step guide to becoming a modern Java developer
 
  - [✅ ] Day 10
  - [✅ ] Day 11
- - [ ] Day 12
+ - [✅ ] Day 12
  - [ ] Day 13
  - [ ] Day 14
  - [ ] Day 15
